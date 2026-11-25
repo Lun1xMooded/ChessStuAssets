@@ -1,0 +1,16 @@
+{
+  "id": "stockfish-19",
+  "name": "Stockfish 19",
+  "version": "19.0",
+  "releaseDate": "2026-09-05",
+  "elo": 3650,
+  "description": "Stable version of Stockfish 19.",
+  "binaries": {
+    "windows-x64": {
+      "filename": "stockfish-windows-x86-64.exe",
+      "sizeBytes": 103046300,
+      "sha256": "45bc8e4969147db9c2eb533810637994619bff0eacc81ccfd9854394901bcbd0",
+      "downloadUrl": "https://raw.githubusercontent.com/Lun1xMooded/ChessStuAssets/main/bots/stockfish/versions/19/stockfish-windows-x86-64.zip"
+    }
+  }
+}
